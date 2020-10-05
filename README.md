@@ -1,2 +1,2 @@
 # Course_Data_Science
-The Basics Data Science (BDS)
+## The Basics Data Science (BDS)
